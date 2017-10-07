@@ -11,4 +11,4 @@
 * Standard Assets
 
 # Web Demo
-http://ogames.webcrow.jp/?p=14
+http://bboydaisuke.wp.xdomain.jp/2015/08/30/post-4/
